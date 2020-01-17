@@ -25,7 +25,5 @@ while (guess != secret) and (times > 0):
         else:
             print("机会用光咯T_T")
 
-    
-            
 print("游戏结束，不玩啦^_^，newchange")
 
