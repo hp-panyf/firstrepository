@@ -28,4 +28,4 @@ while (guess != secret) and (times > 0):
     
             
 print("游戏结束，不玩啦^_^，newchange")
-
+# 这是来自远程的修改
