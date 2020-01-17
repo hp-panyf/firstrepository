@@ -26,3 +26,6 @@ while (guess != secret) and (times > 0):
             print("机会用光咯T_T")
 
 
+
+print("游戏结束，不玩啦^_^，newchange")
+# 这是一个来自本地的修改
