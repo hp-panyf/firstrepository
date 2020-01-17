@@ -25,9 +25,6 @@ while (guess != secret) and (times > 0):
         else:
             print("机会用光咯T_T")
 
-<<<<<<< HEAD
-
-
 print("游戏结束，不玩啦^_^，newchange")
 # 这是一个来自本地的修改
 =======
@@ -35,3 +32,5 @@ print("游戏结束，不玩啦^_^，newchange")
             
 print("游戏结束，不玩啦^_^，newchange")
 >>>>>>> d44b8b8a5817259522998c86904a4f41eae6345d
+# 本地又改了一次
+# 这是来自远程的修改
